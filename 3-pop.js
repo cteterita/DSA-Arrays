@@ -1,4 +1,4 @@
-let Array = require('./array');
+let Array = require('./1-array');
 
 function main(){
 
